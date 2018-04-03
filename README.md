@@ -6,3 +6,5 @@ Users can check this website for up-to-date arrival times.
 
 The time displays are manipulated using the Moment.js library.
 
+Test it out here:
+https://tonypuricelli.github.io/train-time/
