@@ -79,7 +79,6 @@ database.ref().on("child_added", function(snapshot) {
     // grab data from database
     var name = snapshot.val().name;
     var destination = snapshot.val().destination;
-    // var time = snapshot.val().time;
     var frequency = snapshot.val().frequency;
     var next = snapshot.val().next;
     var min = snapshot.val().min;

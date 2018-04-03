@@ -1,0 +1,13 @@
+body {
+    background-color: #E37D00;
+}
+
+.jumbotron {
+    background-image: url("./images/cologne-central-station-railway-station-train-163580.jpeg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
